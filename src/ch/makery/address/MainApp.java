@@ -1,5 +1,6 @@
 package ch.makery.address;
 
+import java.awt.*;
 import java.io.IOException;
 
 import ch.makery.address.model.Person;
